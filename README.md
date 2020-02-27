@@ -1,2 +1,2 @@
 # Linear-Regression
-Some (first) python answers to the Stanford Machine Learning Course on Coursera.
+Some from-scratch python code to perform basic gradient descent and determine OLS coefficients, implemented in Numpy.
